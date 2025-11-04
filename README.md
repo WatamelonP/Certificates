@@ -1,6 +1,6 @@
 # 🎓 Certificates & Achievements
 
-This repository contains selected certifications related to my work in Artificial Intelligence, Machine Learning, and Cloud Engineering.
+This repository contains selected certifications related to my work in Python, Artificial Intelligence, and Machine Learning.
 
 ## 🧠 AI / Machine Learning
 - [HarvardX: CS50's Introduction to Computer Science](https://cs50.harvard.edu/certificates/ef8cd3b9-6e5c-4d6b-a9f8-8c0429cd7370)
